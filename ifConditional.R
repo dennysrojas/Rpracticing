@@ -1,4 +1,6 @@
 ##IF conditional
+
+##first try 
 r<-4 
 if(r==4){
   x<-1
