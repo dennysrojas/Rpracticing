@@ -11,16 +11,11 @@ Some practice in my journey of learning R language.
 ## Features
  
 - IF conditional
- 
 - FOR structure
- 
 - While structure
- 
-
 - NEXT command on Repeat and Brake structure
- 
 - FUNCTION definition
-- 
+- Examples with functions: basic arithmetic operation and values up a limit on a vector
 ## Authors
 
 - [@dennysrojas](https://www.github.com/dennysrojas)
