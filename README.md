@@ -16,6 +16,12 @@ Some practice in my journey of learning R language.
 - NEXT command on Repeat and Brake structure
 - FUNCTION definition
 - Examples with functions: basic arithmetic operation and values up a limit on a vector
+- APPLY Function example
+- LAPPLY Function example
+- SAPPLY Function example
+- REP Function examples
+- MAPPLY Function examples 
+
 ## Authors
 
 - [@dennysrojas](https://www.github.com/dennysrojas)
