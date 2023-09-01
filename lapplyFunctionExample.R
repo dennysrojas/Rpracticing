@@ -1,0 +1,7 @@
+A <- matrix(1:9, 3, 3)
+B <- matrix(4:15, 4, 3)
+C <- matrix(8:10, 3, 2)
+mi_lista <- list(A, B, C)
+lapply(mi_lista, "[", , 2)
+lapply(mi_lista, "[", 1, )
+lapply(mi_lista, "[", 1, 2)
