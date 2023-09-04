@@ -22,6 +22,9 @@ Some practice in my journey of learning R language.
 - REP Function examples
 - MAPPLY Function examples 
 - PLOT Function usage: basic example, graphic by stages, IRIS graphic, histogram graphics, dotchart, boxplot
+- PAR Function
+- Management of fonts on a plot
+
 
 
 ## Authors
