@@ -21,7 +21,7 @@ Some practice in my journey of learning R language.
 - SAPPLY Function example
 - REP Function examples
 - MAPPLY Function examples 
-- PLOT Function usage: basic example, graphic by stages, IRIS graphic, histogram graphics
+- PLOT Function usage: basic example, graphic by stages, IRIS graphic, histogram graphics, dotchart, boxplot
 
 
 ## Authors
