@@ -30,6 +30,7 @@ Some practice in my journey of learning R language.
 -   PAR Function
 -   Management of fonts on a plot
 -   Functions about regular expressions.
+-   GGPLOT2 usage
 
 ## Authors
 
