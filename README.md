@@ -31,6 +31,7 @@ Some practice in my journey of learning R language.
 -   Management of fonts on a plot
 -   Functions about regular expressions.
 -   GGPLOT2 usage
+-   Binomial function example
 
 ## Authors
 
