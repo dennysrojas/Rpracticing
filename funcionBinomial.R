@@ -1,0 +1,6 @@
+set.seed(10)
+rbinom(1, 7, 0.5)
+resultados <- rbinom(100000, 7, 0.5)
+tail(resultados)
+tail(resultados >= 5)
+mean(resultados >= 5)
